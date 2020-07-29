@@ -1,1 +1,1 @@
-# Refer to the files in this directory to view examples of some of my past work! I've had experience using Python, R, SQL for the various needs of these projects.
+# Refer to the attachments in this directory to view examples of some of my past work! I've had experience using Python, R, SQL for the various needs of these projects. All relevant code can be found either included along the course of a project, or in an appendix at the end of each file.
